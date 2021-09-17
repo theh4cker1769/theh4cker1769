@@ -40,7 +40,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 </table>
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi679&theme=dark" alt="PallaviPandey" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theh4cker1769&theme=dark" alt="PallaviPandey" /></p>
 </div>
 
 
