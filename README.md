@@ -16,9 +16,6 @@ I am learning fullstack developement and having knowledge of HTML, CSS, Javascri
 </p>
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
-<h1 align="center">Projects</h1>
-
-
 
 <hr>
 
@@ -41,6 +38,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=theh4cker1769&show_icons=true&theme=dark&locale=en&layout=compact" alt="Harshavardhan Reddy" /></td>
   </tr>
 </table>
+
+<div align="center">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pallavi679&theme=dark" alt="PallaviPandey" /></p>
+</div>
 
 
 
