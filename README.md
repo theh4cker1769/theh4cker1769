@@ -19,7 +19,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <hr>
 
-<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+<h1 align="center">Fixes problem that you don’t know you have, in a way you don’t understand</h1>
 
 <h1 align="center">Let's Get Connected</h1>
 
@@ -40,8 +40,11 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 </table>
 
 <div align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theh4cker1769&theme=dark" alt="PallaviPandey" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theh4cker1769&theme=dark" alt="Harshavardhan Reddy" /></p>
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theh4cker1769&label=Profile%20views&color=6805D3&style=flat" alt="Harshavardhan Reddy" /> </p>
+<div align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=theh4cker1769&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+</div>
 
 
