@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/pallavi-pandey-8237791a0/" target="_blank"> Harshavardhan Reddy </a></h1>
+<h1 align="center">Hi, I'm <a href="http://theh4cker1769.github.io/" target="_blank"> Harshavardhan Reddy </a></h1>
 
 A bit about Myself, I am <b>Harshavardhan Reddy</b> pursuing a <b> Degree in Artificial Intelligence and Data Science</b> from New Horizon Institute of Technology and Management. As of now, I am focused on <b> FullStack development</b> but still, wish to explore many fields. ⚡
 
